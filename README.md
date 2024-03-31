@@ -28,7 +28,7 @@ Hi there! I am committed to creating artificial intelligence to advance the worl
  -->
 ## My GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![dongyangli-del's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongyangli-del&show_icons=true)
 
 ## 🛠 Skills Highlights
 
