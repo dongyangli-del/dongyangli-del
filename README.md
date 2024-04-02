@@ -1,6 +1,9 @@
 # Dongyang Li 
 Hi there! I am committed to creating artificial intelligence to advance the world through the analysis and understanding of neural and behavioral data from the human brain. I specialize in delving into complex brain functions to clarify and extract valuable insights to solve problems. Through various projects, I have enhanced data-driven decision-making and developed efficient algorithms for solving practical brain-computer interface problems. With these experiences, my goal is to continue to learn and grow and enjoy new challenges in the fields of data science and artificial intelligence.
 
+[![Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dongyangli-del&count_bg=%2387CEEB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 ## About Me
 
@@ -16,7 +19,7 @@ Hi there! I am committed to creating artificial intelligence to advance the worl
 ## 👩‍🎓 Education
 
 - **MS in Electronic Science and Technology** (2023.06 - Present), Department of **Biomedical Engineering**, Southern University of Science and Technology
-- **BS in Computer Science and Technology** (2019.09-2023.06), **Zhengzhou University**
+- **BS in Computer Science and Technology** (2019.09-2023.06), School of **Computer and Artificial Intelligence**, Zhengzhou University
 
 
 <!-- 
@@ -39,11 +42,11 @@ Hi there! I am committed to creating artificial intelligence to advance the worl
 
 ## 🏆 Awards
 
-- Provincial Special Award and National Bronze Award, "Challenge Cup" National University Student Innovation and Entrepreneurship Plan Competition.
+- Provincial Special Award and National Bronze Award, "Challenge Cup" National University Student Innovation and Entrepreneurship Plan Competition, 2020.10
 - National First Prize (Captain), China Robot Competition and RobotCup Advanced Vision Competition 3D Recognition Project, 2022.04.
-- National First Prize (Captain), China Robot Competition and RobotCup Advanced Vision Competition Industrial Measurement Project.
-- National Second Prize (Captain), "MathorCup" University Mathematical Modeling Challenge.
-- Provincial First Prize (Captain), National College Student Mathematical Modeling Competition.
+- National First Prize (Captain), China Robot Competition and RobotCup Advanced Vision Competition Industrial Measurement Project, 2022.04.
+- National Second Prize (Captain), "MathorCup" University Mathematical Modeling Challenge, 2021.7
+- Provincial First Prize (Captain), National College Student Mathematical Modeling Competition,2021.11
 
 
 ## 💻 Experience
