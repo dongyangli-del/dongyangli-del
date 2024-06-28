@@ -14,7 +14,7 @@ Hi there! I am committed to creating artificial intelligence to advance the worl
 - 🤔 I’m looking for help with **[Computer vision and natural language processing]**
 - 💬 Ask me about **[Neural decoding and AI aligned with the brain]**
 - 📫 How to reach me: **[lidy2023@mail.sustech.edu.cn]**
-- 😄 Pronouns: **[He]**
+- 😄 Personal Pages: [https://dongyangli-del.github.io/](https://dongyangli-del.github.io/) (updated recently🔥)
 
 ## 👩‍🎓 Education
 
