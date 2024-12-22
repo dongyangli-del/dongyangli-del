@@ -18,8 +18,8 @@ Hi there! I am committed to creating artificial intelligence to advance the worl
 
 ## 👩‍🎓 Education
 
-- **MS in Electronic Science and Technology** (2023.06 - Present), Department of **Biomedical Engineering**, Southern University of Science and Technology
-- **BS in Computer Science and Technology** (2019.09-2023.06), School of **Computer and Artificial Intelligence**, Zhengzhou University
+- **MS in Electronic Science and Technology** (2023.06 - Present), Southern University of Science and Technology
+- **BS in Computer Science and Technology** (2019.09-2023.06), Zhengzhou University
 
 
 <!-- 
