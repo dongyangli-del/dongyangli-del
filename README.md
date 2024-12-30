@@ -60,7 +60,7 @@ Hi there! I am committed to creating artificial intelligence to advance the worl
 
 ## 📝 Publications
 
-- Li D, Wei C, Li S, et al. "Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion", arXiv preprint arXiv:2403.07721, 2024.
+- Li D, Wei C, Li S, et al. "Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion", NeurIPS, 2024.
 
 
 
