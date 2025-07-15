@@ -1,14 +1,27 @@
-# Dongyang Li 
-Hi there! I am committed to creating artificial intelligence to advance the world through the analysis and understanding of neural and behavioral data from the human brain. I specialize in delving into complex brain functions to clarify and extract valuable insights to solve problems. Through various projects, I have enhanced data-driven decision-making and developed efficient algorithms for solving practical brain-computer interface problems. With these experiences, my goal is to continue to learn and grow and enjoy new challenges in the fields of data science and artificial intelligence.
+<!-- # Dongyang Li  -->
+<h1 align="center">
+  Hi, I'm <a href="https://tianxingchen.github.io/" target="_blank">Dongyang Li (李东洋) 👋</a> <br>
+	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dongyangli-del">
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/dongyangli-del">
+<br>
+</h1>
+<p>
+Hi there! I am currently a 2nd-year M.S. student in <a href="https://faculty.sustech.edu.cn/?tagid=liuqy&iscss=1&snapid=1&orderby=date&go=1">NCClab@SUSTech</a>, major in Electronic Engineering at <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology</a>, Shenzhen, China. 
+                  My supervisor is <a href="https://www.sustech.edu.cn/zh/faculties/liuquanying.html">Prof. Quanying Liu</a>. Now I am also closely working with <a href="https://mi.eng.cam.ac.uk/~cz277/">Prof. Chao Zhang</a>.
+</p>
 
-[![Github](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dongyangli-del&count_bg=%2387CEEB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+I am committed to creating artificial intelligence to advance the world through the analysis and understanding of neural and behavioral data from the human brain. I specialize in delving into complex brain functions to clarify and extract valuable insights to solve problems. 
+
+Through various projects, I have enhanced data-driven decision-making and developed efficient algorithms for solving practical brain-computer interface problems. With these experiences, my goal is to continue to learn and grow and enjoy new challenges in the fields of data science and artificial intelligence.
 
 
 
-## About Me
 
-- 🔭 I’m currently working on **[Southern University of Science and Technology
-]**
+
+## 🏠 About Me
+
+- 🔭 I’m currently studying on [Southern University of Science and Technology
+](https://www.sustech.edu.cn/en/)
 - 🌱 I’m currently learning **[Artificial intelligence and brain-computer interfaces]**
 - 👯 I’m looking to collaborate on **[Multimodal large model and non-invasive brain computer interface]**
 - 🤔 I’m looking for help with **[Computer vision and natural language processing]**
@@ -18,8 +31,14 @@ Hi there! I am committed to creating artificial intelligence to advance the worl
 
 ## 👩‍🎓 Education
 
-- **MS in Electronic Science and Technology** (2023.06 - Present), Southern University of Science and Technology
-- **BS in Computer Science and Technology** (2019.09-2023.06), Zhengzhou University
+- MS in Electronic Science and Technology (2023.09 - Present), Southern University of Science and Technology
+- BS in Computer Science and Technology (2019.09-2023.06), Zhengzhou University
+
+## 📝 First / Co-first Author
+
+* **[NeurIPS 2024]** Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion, [Repo](https://github.com/ncclab-sustech/EEG_Image_decode) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/ncclab-sustech/EEG_Image_decode">
+* **[ACM MM 2025]** BrainFLORA: Uncovering Brain Concept Representation via Multimodal Neural Embeddings, [Repo](https://github.com/ncclab-sustech/BrainFLORA) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/ncclab-sustech/BrainFLORA">
+
 
 
 <!-- 
@@ -47,7 +66,7 @@ Hi there! I am committed to creating artificial intelligence to advance the worl
 - National First Prize (Captain), China Robot Competition and RobotCup Advanced Vision Competition Industrial Measurement Project, 2022.04.
 - National Second Prize (Captain), "MathorCup" University Mathematical Modeling Challenge, 2021.7
 - Provincial First Prize (Captain), National College Student Mathematical Modeling Competition,2021.11
-
+<!-- 
 
 ## 💻 Experience
 
@@ -55,12 +74,8 @@ Hi there! I am committed to creating artificial intelligence to advance the worl
 
 - Decoding and Reconstructing Brain Activity from Image Stimuli Based on Multimodal Large Model, PI: Quanying Liu, 2023-07 to Present. Currently involved in advancing multimodal neural network models for interpreting brain activity in response to visual stimuli.
 
-- Image Aesthetics Evaluation Based on Reinforcement Learning, PI: Mingliang Xu and Pei Lv, 2020-10 to 2021-01. Contributed to data processing, feature extraction, and chart data modeling, significantly aiding in research published in IEEE Transactions on Multimedia (TMM).
+- Image Aesthetics Evaluation Based on Reinforcement Learning, PI: Mingliang Xu and Pei Lv, 2020-10 to 2021-01. Contributed to data processing, feature extraction, and chart data modeling, significantly aiding in research published in IEEE Transactions on Multimedia (TMM). -->
 
-
-## 📝 Publications
-
-- Li D, Wei C, Li S, et al. "Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion", NeurIPS, 2024.
 
 
 
