@@ -1,18 +1,19 @@
 <!-- # Dongyang Li  -->
 <h1 align="center">
-  Hi, I'm <a href="https://tianxingchen.github.io/" target="_blank">Dongyang Li (李东洋) 👋</a> <br>
+  Hi, I'm <a href="https://dongyangli-del.github.io/" target="_blank">Dongyang Li (李东洋) 👋</a> <br>
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dongyangli-del">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/dongyangli-del">
 <br>
 </h1>
 <p>
-Hi there! I am currently a 2nd-year M.S. student in <a href="https://faculty.sustech.edu.cn/?tagid=liuqy&iscss=1&snapid=1&orderby=date&go=1">NCClab@SUSTech</a>, major in Electronic Engineering at <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology</a>, Shenzhen, China. 
+Hi there! I am Dongyang Li (李东洋), a 2nd-year M.S. student in <a href="https://faculty.sustech.edu.cn/?tagid=liuqy&iscss=1&snapid=1&orderby=date&go=1">NCClab@SUSTech</a>, major in Electronic Engineering at <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology</a>, Shenzhen, China. 
                   My supervisor is <a href="https://www.sustech.edu.cn/zh/faculties/liuquanying.html">Prof. Quanying Liu</a>. Now I am also closely working with <a href="https://mi.eng.cam.ac.uk/~cz277/">Prof. Chao Zhang</a>.
 </p>
 
 I am committed to creating artificial intelligence to advance the world through the analysis and understanding of neural and behavioral data from the human brain. I specialize in delving into complex brain functions to clarify and extract valuable insights to solve problems. 
 
-Through various projects, I have enhanced data-driven decision-making and developed efficient algorithms for solving practical brain-computer interface problems. With these experiences, my goal is to continue to learn and grow and enjoy new challenges in the fields of data science and artificial intelligence.
+Now my research interests focus on **LLMs**, **Foundation Models** and **Brain-inspired AI**. With these experiences, my goal is to continue to learn and grow and enjoy new challenges in the fields of data science and artificial intelligence.
+
 
 
 
@@ -22,10 +23,8 @@ Through various projects, I have enhanced data-driven decision-making and develo
 
 - 🔭 I’m currently studying on [Southern University of Science and Technology
 ](https://www.sustech.edu.cn/en/)
-- 🌱 I’m currently learning **[Artificial intelligence and brain-computer interfaces]**
-- 👯 I’m looking to collaborate on **[Multimodal large model and non-invasive brain computer interface]**
-- 🤔 I’m looking for help with **[Computer vision and natural language processing]**
-- 💬 Ask me about **[Neural decoding and AI aligned with the brain]**
+- 🌱 I’m currently learning **[Large Language Models and BCI]**
+- 👯 I’m looking to collaborate on **[Multimodal large model and Embodied AI]**
 - 📫 How to reach me: **[lidy2023@mail.sustech.edu.cn]**
 - 😄 Personal Pages: [https://dongyangli-del.github.io/](https://dongyangli-del.github.io/) (updated recently🔥)
 
