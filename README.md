@@ -13,11 +13,7 @@
 </h1>
 <p>
 Hi there! I am Dongyang Li (李东洋), a last-year M.S. student in <a href="https://faculty.sustech.edu.cn/?tagid=liuqy&iscss=1&snapid=1&orderby=date&go=1">NCClab@SUSTech</a>, majoring in Electronic Engineering at <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology</a>, Shenzhen, China.
-My supervisor is <a href="https://www.sustech.edu.cn/zh/faculties/liuquanying.html">Prof. Quanying Liu</a>. I have previously worked with <a href="https://mi.eng.cam.ac.uk/~cz277/">Prof. Chao Zhang</a>.
-</p>
-
-<p>
-During my PhD, I will be jointly supervised by <a href="https://life.tsinghua.edu.cn/lifeen/info/1035/1581.htm">Prof. Xiaoxuan Jia</a> and <a href="https://lywang3081.github.io/">Prof. Liyuan Wang</a>, and I plan to pursue research on Brain-Inspired AI algorithms and Brain-Computer Interfaces.
+My supervisor is <a href="https://www.sustech.edu.cn/zh/faculties/liuquanying.html">Prof. Quanying Liu</a>. I have previously worked with <a href="https://mi.eng.cam.ac.uk/~cz277/">Prof. Chao Zhang</a>. During my PhD, I will be jointly supervised by <a href="https://life.tsinghua.edu.cn/lifeen/info/1035/1581.htm">Prof. Xiaoxuan Jia</a> and <a href="https://lywang3081.github.io/">Prof. Liyuan Wang</a>, and I plan to pursue research on Brain-Inspired AI algorithms and Brain-Computer Interfaces.
 </p>
 
 My main research interests lie in leveraging **Multimodal Large Language Models (MLLMs)** and **Generative Models** to construct **Bidirectional Brain-Computer Interfaces (BCIs)**, thereby advancing **Physical AI** and **NeuroAI**. My mission is to architect the next generation of General Artificial Intelligence by integrating brain-inspired intelligence principles with MLLMs—unraveling neural mechanisms underlying human perception and motor behavior, and translating these findings into robust physical and linguistic intelligence.
