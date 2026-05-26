@@ -4,97 +4,42 @@
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dongyangli-del">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/dongyangli-del">
 <br>
+<a href="mailto:lidy2023@mail.sustech.edu.cn" target="_blank"><img src="./files/icon/email.png" height="32px" style="margin-bottom:-4px" alt="Email"></a>&nbsp;
+<a href="https://scholar.google.com/citations?user=4VTOeU4AAAAJ&hl=zh-CN&oi=ao" target="_blank"><img src="./files/icon/google_scholar.png" height="30px" style="margin-bottom:-3px" alt="Google Scholar"></a>&nbsp;
+<a href="https://github.com/dongyangli-del" target="_blank"><img src="./files/icon/github_s.jpg" height="30px" style="margin-bottom:-3px" alt="GitHub"></a>&nbsp;
+<a href="https://www.linkedin.com/in/dongyang-li-43a4b5320/" target="_blank"><img src="./files/icon/LinkedIn.png" height="30px" style="margin-bottom:-3px" alt="LinkedIn"></a>&nbsp;
+<a href="https://x.com/Dyang_li" target="_blank"><img src="./files/icon/X_icon.png" height="30px" style="margin-bottom:-3px" alt="X"></a>&nbsp;
+<a href="https://dongyangli-del.github.io/files/Dongyang_Li_CV.pdf" target="_blank"><img src="./files/icon/cv.png" height="30px" style="margin-bottom:-3px" alt="CV"></a>
 </h1>
 <p>
-Hi there! I am Dongyang Li (李东洋), a 3rd-year M.S. student in <a href="https://faculty.sustech.edu.cn/?tagid=liuqy&iscss=1&snapid=1&orderby=date&go=1">NCClab@SUSTech</a>, major in Electronic Engineering at <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology</a>, Shenzhen, China. 
-                  My supervisor is <a href="https://www.sustech.edu.cn/zh/faculties/liuquanying.html">Prof. Quanying Liu</a>. I have previously closely worked with <a href="https://mi.eng.cam.ac.uk/~cz277/">Prof. Chao Zhang</a>. Now I am also closely working with <a href="https://shaoli-huang.github.io/">Dr. Shaoli Huang</a>.
+Hi there! I am Dongyang Li (李东洋), a last-year M.S. student in <a href="https://faculty.sustech.edu.cn/?tagid=liuqy&iscss=1&snapid=1&orderby=date&go=1">NCClab@SUSTech</a>, majoring in Electronic Engineering at <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology</a>, Shenzhen, China.
+My supervisor is <a href="https://www.sustech.edu.cn/zh/faculties/liuquanying.html">Prof. Quanying Liu</a>. I have previously worked with <a href="https://mi.eng.cam.ac.uk/~cz277/">Prof. Chao Zhang</a>.
 </p>
 
-My major research interests include using **Multimodal Large Language models (MLLMs)** to build **Brain-Computer Interface (BCI)**, and then to promote the development of **Embodied AI** and **NeuroAI**. My mission is to architect the next generation of General AI by synthesizing the principles of brain intelligence with the power of MLLMs. I aim to decode the neural foundations of perception and action, translating them into robust physical and linguistic intelligence, thereby enabling machines that truly understand and collaborate with humanity.
+<p>
+During my PhD, I will be jointly supervised by <a href="https://life.tsinghua.edu.cn/lifeen/info/1035/1581.htm">Prof. Xiaoxuan Jia</a> and <a href="https://lywang3081.github.io/">Prof. Liyuan Wang</a>, and I plan to pursue research on Brain-Inspired AI algorithms and Brain-Computer Interfaces.
+</p>
 
-
-
-
-
+My main research interests lie in leveraging **Multimodal Large Language Models (MLLMs)** and **Generative Models** to construct **Bidirectional Brain-Computer Interfaces (BCIs)**, thereby advancing **Physical AI** and **NeuroAI**. My mission is to architect the next generation of General Artificial Intelligence by integrating brain-inspired intelligence principles with MLLMs—unraveling neural mechanisms underlying human perception and motor behavior, and translating these findings into robust physical and linguistic intelligence.
 
 ## 🏠 About Me
 
-- 🔭 I'm currently studying at [Southern University of Science and Technology
-](https://www.sustech.edu.cn/en/)
-- 🌱 I'm currently learning **[Multimodal Large Language Models and BCI]**
-- 👯 I'm looking to collaborate on **[Multimodal AI, Embodied AI, and NeuroAI]**
-- 🎯 I'm actively applying for **Fall 2026 PhD programs** - Feel free to reach out!
-- 📫 How to reach me: **[lidy2023@mail.sustech.edu.cn]**
-- 😄 Personal Pages: [https://dongyangli-del.github.io/](https://dongyangli-del.github.io/) (updated recently🔥)
-
-## 👩‍🎓 Education
-
-- MS in Electronic Science and Technology (2023.09 - 2026.06 expected), Southern University of Science and Technology
-- BS in Computer Science and Technology (2019.09-2023.06), Zhengzhou University
+- 🔭 I’m currently studying at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (M.Sc., expected Jun 2026)
+- 🌱 I’m currently learning **MLLMs, generative models, and bidirectional BCIs**
+- 👯 I’m looking to collaborate on **NeuroAI, Physical AI, and multimodal brain decoding**
+- 📫 Contact: **lidy2023@mail.sustech.edu.cn** (or click the icons above)
 
 ## 📝 First / Co-first Author
 
-* **[ACM MM 2025 (Oral)]** BrainFLORA: Uncovering Brain Concept Representation via Multimodal Neural Embeddings, [Repo](https://github.com/ncclab-sustech/BrainFLORA) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/ncclab-sustech/BrainFLORA">
-* **[NeurIPS 2024]** Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion, [Repo](https://github.com/ncclab-sustech/EEG_Image_decode) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/ncclab-sustech/EEG_Image_decode">
-* **[Scientific Data]** ChineseEEG: A Chinese Linguistic Corpus of EEG Recordings during Natural Reading, [Repo](https://github.com/ncclab-sustech/ChineseEEG-2) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/ncclab-sustech/ChineseEEG-2">
-
-## 🎉 Recent News
-
-- **[12/2025]** One journal paper accepted to **Scientific Data** 🎊
-- **[12/2025]** Won **1st place** in Speech Detection (Standard Track) at **[NeurIPS 2025 LibriBrain Competition](https://neural-processing-lab.github.io/2025-libribrain-competition/)** 🏆 [Code](https://github.com/OpenTSLab/MEG-to-Speech-Detection-for-the-LibriBrain-Competition-NeurIPS-2025)
-- **[10/2025]** Joined [AGIBot](https://www.agibot.com/) as Intern Researcher 🤖
-- **[07/2025]** One paper accepted to **ACM MM 2025 (Oral)** 🎤
-- **[05/2025]** Joined [Shanghai AI Laboratory](https://www.shlab.org.cn/) as Intern Researcher 🧠
-
-
-
-<!-- 
-## 💼 Career
-
-- MS Student at [Lab Name], [University Name], [Country], (Year - Present). [Lab website if any]
-- Undergraduate Researcher at [Lab Name], [University Name], [Country], (Year - Year).
-- Undergraduate Researcher at [Research Group Name], [University Name], [Country], (Year - Year).
- -->
-## My GitHub Stats
-
-![dongyangli-del's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongyangli-del&show_icons=true)
-
-## 🛠 Skills Highlights
-
-- Generative AI (Computer Vision and Natural Language Processing)
-- Neural decoding / Brain-computer Interface（BCI）
-- Signal processing techniques (Experience in EEG, fMRI, etc.)
-- Multimodal AI
+* **[ICLR 2026]** MindPilot: Closed-loop Visual Stimulation Optimization for Brain Modulation with EEG-guided Diffusion, [Paper](https://arxiv.org/abs/2602.10552) · [Repo](https://github.com/ncclab-sustech/MindPilot) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/ncclab-sustech/MindPilot">
+* **[ACM MM 2025]** BrainFLORA: Uncovering Brain Concept Representation via Multimodal Neural Embeddings (Oral), [Paper](https://arxiv.org/abs/2507.09747) · [Repo](https://github.com/ncclab-sustech/BrainFLORA) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/ncclab-sustech/BrainFLORA">
+* **[NeurIPS 2024]** Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion (Poster), [Paper](https://arxiv.org/abs/2403.07721) · [Repo](https://github.com/dongyangli-del/EEG_Image_decode) <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/dongyangli-del/EEG_Image_decode">
 
 ## 🏆 Awards
 
-- **[12/2025]** 1st Place, Speech Detection (Standard Track), NeurIPS 2025 LibriBrain Competition
+- **1st place**, Speech Detection (Standard Track), NeurIPS 2025 LibriBrain Competition, 2025.12
 - Provincial Special Award and National Bronze Award, "Challenge Cup" National University Student Innovation and Entrepreneurship Plan Competition, 2020.10
 - National First Prize (Captain), China Robot Competition and RobotCup Advanced Vision Competition 3D Recognition Project, 2022.04
 - National First Prize (Captain), China Robot Competition and RobotCup Advanced Vision Competition Industrial Measurement Project, 2022.04
 - National Second Prize (Captain), "MathorCup" University Mathematical Modeling Challenge, 2021.07
 - Provincial First Prize (Captain), National College Student Mathematical Modeling Competition, 2021.11
-
-## 💼 Experience
-
-- **[AGIBot](https://www.agibot.com/)** | Research Intern | Oct 2025 - Present
-  - Multimodal reliable humanoid locomotion generation for robotics
-  - Supervisor: [Dr. Shaoli Huang](https://shaoli-huang.github.io/)
-
-- **[Shanghai AI Laboratory](https://www.shlab.org.cn/)** | Research Intern | May 2025 - Oct 2025
-  - Non-invasive brain-computer interface based on multimodal models
-  - Supervisor: [Prof. Chao Zhang](https://mi.eng.cam.ac.uk/~cz277/)
-<!-- 
-
-## 💻 Experience
-
-- Human Brain Electrophysiological Signal Data Interpolation Based on Depth-Generating Model, PI: Quanying Liu, 2022-10 to Present. In this project, I utilize a generative model to establish a unified framework for electrophysiological channel data recovery, addressing cross-subject challenges through a location coding method.
-
-- Decoding and Reconstructing Brain Activity from Image Stimuli Based on Multimodal Large Model, PI: Quanying Liu, 2023-07 to Present. Currently involved in advancing multimodal neural network models for interpreting brain activity in response to visual stimuli.
-
-- Image Aesthetics Evaluation Based on Reinforcement Learning, PI: Mingliang Xu and Pei Lv, 2020-10 to 2021-01. Contributed to data processing, feature extraction, and chart data modeling, significantly aiding in research published in IEEE Transactions on Multimedia (TMM). -->
-
-
-
-
-<!-- Don't forget to add your username and links to the actual badge sources for visitor count and GitHub stats! -->
